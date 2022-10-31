@@ -1,0 +1,8 @@
+/.idea
+/GUI/__pycache__
+/database/__pycache__
+/manual_methods/__pycache__
+/auth/__pycache__
+__pycache__
+/venv
+/Notes(felts).crt

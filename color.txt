@@ -1,0 +1,2 @@
+background color =#5cd1c1
+default color =#c6ffff
