@@ -8,7 +8,7 @@ __________________________________________
 
 Скопируйте через terminal репозиторий:
 ```bash
-git clone https://github.com/FeltsAzn/website-parser-with-gui
+git clone https://github.com/FeltsAzn/login-notes/
 ```
 
 #### Если вы работаете через редакторы кода `vim`, `nano`, `notepad` и другие:
